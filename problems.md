@@ -15,7 +15,7 @@ But voters don't have to vote this way. We can judge each candidate independentl
 
 ## A Democratic Party Example
 
-In 2000 Al Gore notoriously lost the election for President in Florida. 
+In 2000 Al Gore notoriously lost the election for President in Florida. The [official Florida tally](https://transition.fec.gov/pubrec/fe2000/2000presge.htm#FL) gave Bush the win by 537 votes (48.847 percent to 48.838 percent), while Nader racked up 97,488 votes. 
 
 ...
 
