@@ -41,3 +41,10 @@ instead of this:
 
 
 Inspired by Nicky Case's [Guide to a Better Ballot](http://ncase.me/ballot/)
+
+## Sample Bill Language
+
+Approval Voting in New York State
+Voting; system of approval voting. 1. In any election in which more than two candidates’ names appear for nomination or election to the ame public office on the official ballot; or in which more than two candidates' names appear on the official ballot for election to the same party position which position is to be filled by the election of only one candidate; or in which more candidates' names appear on the official ballot than are to be elected to the same party position which position is to be filled by the election of a group of candidates; **the voter shall be permitted to vote for (and thereby to approve of) as many or as few of the candidates for such same public office or party position as the voter chooses to vote for**, without limitation, except that the voter may not vote more than once for the same candidate in such election for nomination or election to such office or position. The candidate who receives the greater total number of votes cast in the election for nomination or election to such same public office or party position shall be nominated or elected thereto. Any provisions of this chapter or the education law which appear to limit or restrict a voter's right to vote in accordance with this section or which are inconsistent with these provisions shall be deemed to be modified or superseded by the provisions of this section.
+ 
+ 
