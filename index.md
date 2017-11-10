@@ -4,10 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
+# What is Approval Voting?
 
-Approval voting is the simplest voting system that properly resolves the "spoiler effect" of third party candidates. It allows for a fairer, easier way to pick the ideal representatitive for a population. It allows voters vote their minds, without having to worry about being strategic.
+Approval voting is a simplest voting system that eliminates the "spoiler effect" of third party candidates. It allows for a fairer, easier way to pick the best representative.
 
-Imagine if the 2016 Ballot looked like this: 
+Imagine if the 2016 Presidential Ballot looked like this: 
 
 <div>
 <p>
@@ -39,6 +40,7 @@ instead of this:
   <input type="radio" name="candidate" value="Hillary Clinton ">Hillary Clinton<br>
 </form></p></div>
 
+Who would you vote for?
 
 Inspired by Nicky Case's [Guide to a Better Ballot](http://ncase.me/ballot/)
 
