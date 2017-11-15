@@ -13,6 +13,7 @@ Imagine if the 2016 Presidential Ballot looked like this:
 <form action="">
   <input type="checkbox" name="candidate" value="Jeb Bush">Jeb Bush<br>
   <input type="checkbox" name="candidate" value="Ben Carson">Ben Carson<br>
+  <input type="checkbox" name="candidate" value="Gary Johnson">Gary Johnson<br>
   <input type="checkbox" name="candidate" value="Chris Christie">Chris Christie<br>
   <input type="checkbox" name="candidate" value="Ted Cruz">Ted Cruz<br>
   <input type="checkbox" name="candidate" value="Bernie Sanders">Bernie Sanders<br>
