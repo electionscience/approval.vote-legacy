@@ -2,11 +2,9 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: page
+layout: home
 ---
-# What is Approval Voting?
-
-Approval voting eliminates the "spoiler effect" of third party candidates. It makes voting fairer, easier, and ensures that candidates better represent their consitituents.
+Approval voting eliminates the "spoiler effect" of third party candidates. It makes voting fairer, easier, and ensures that candidates better represent their constituents.
 
 Imagine if the 2016 Presidential Ballot looked like this: 
 

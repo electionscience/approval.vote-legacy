@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Ballot
-permalink: /ballot/
+title: Compare
+permalink: /compare/
 ---
+
+## How does Approval Voting relate to other voting systems? 
+
+
 <div>
 <head>
   <meta charset="utf-8">
@@ -34,9 +38,9 @@ permalink: /ballot/
 main({
   description: "[type a description for your model here. for example...]\n\nLook, it's the whole shape gang! Steven Square, Tracy Triangle, Henry Hexagon, Percival Pentagon, and last but not least, Bob.",
   features: 4,
-  system: "FPTP",
-  candidates: 5,
-  voters: 1
+  system: "Approval",
+  candidates: 4,
+  voters: 3
 });
 </script>
 </div>
