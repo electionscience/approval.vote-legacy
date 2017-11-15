@@ -6,7 +6,7 @@ layout: page
 ---
 # What is Approval Voting?
 
-Approval voting is a simplest voting system that eliminates the "spoiler effect" of third party candidates. It allows for a fairer, easier way to pick the best representative.
+Approval voting eliminates the "spoiler effect" of third party candidates. It makes voting fairer, easier, and ensures that candidates better represent their consitituents.
 
 Imagine if the 2016 Presidential Ballot looked like this: 
 
@@ -17,7 +17,7 @@ Imagine if the 2016 Presidential Ballot looked like this:
   <input type="checkbox" name="candidate" value="Ben Carson">Ben Carson<br>
   <input type="checkbox" name="candidate" value="Chris Christie">Chris Christie<br>
   <input type="checkbox" name="candidate" value="Ted Cruz">Ted Cruz<br>
-  <input type="checkbox" name="candidate" value="Bernie Sanders  ">Bernie Sanders<br>
+  <input type="checkbox" name="candidate" value="Bernie Sanders">Bernie Sanders<br>
   <input type="checkbox" name="candidate" value="Carly Fiorina">Carly Fiorina<br>
   <input type="checkbox" name="candidate" value="Jim Gilmore">Jim Gilmore<br>
   <input type="checkbox" name="candidate" value="Mike Huckabee">Mike Huckabee<br>
