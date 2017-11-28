@@ -1,10 +1,11 @@
 ---
 layout: page
+sidenav: primary
 title: For Voters
 permalink: /voters/
 ---
 
-The way we vote determines the people we elect. 
+# The way we vote determines the people we elect. 
 Voting isn't just checking a box - voting should be a survey of what you, a constituent, believe. 
 
 The widespread system of Single Choice voting means voters must make trade offs between their values, and who will win. 

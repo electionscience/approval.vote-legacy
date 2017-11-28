@@ -41,3 +41,16 @@ It's unlikely that the parties would significantly change, other than now being 
 
 By running a great campaign! Approval voting encourages the best candidate to win by reaching out to underrepresented constituencies, and building bridges. The task turns from building the most fervent base, to building the widest coalition of voters. In a tight race, it's your job to bring constituents out of the shadows, and have them engage in the political process.
 Because your candidacy is independent from any other candidate's platform, you are running on your own platform, rather than against anyone elses.
+
+## Sample Bill Language
+<p>Approval Voting in New York State Voting; system of approval voting<br />1. <br />In any election in which more than two candidates’
+names appear for nomination or election to the ame public office on the official ballot;<br /> or in which more than two candidates'
+names appear on the official ballot for election to the same party position which position is to be filled by the election
+of only one candidate;<br /> or in which more candidates' names appear on the official ballot than are to be elected to the
+same party position which position is to be filled by the election of a group of candidates;<b><br />the voter shall be permitted
+to vote for (and thereby to approve of) as many or as few of the candidates for such same public office or party position
+as the voter chooses to vote for</b>, without limitation, except that the voter may not vote more than once for the same
+candidate in such election for nomination or election to such office or position.<br /> The candidate who receives the greater
+total number of votes cast in the election for nomination or election to such same public office or party position shall
+be nominated or elected thereto. <br />Any provisions of this chapter or the education law which appear to limit or restrict a voter's right to vote in accordance with this section or which are inconsistent with these provisions shall be deemed
+to be modified or superseded by the provisions of this section.</p>

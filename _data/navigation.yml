@@ -1,0 +1,14 @@
+primary:
+  - text: For Voters
+    href: /voters/
+  - text: For Candidates
+    href: /candidates/
+  - text: About Us
+    href: http://electology.org/who-we-are
+    external: true
+
+  # link objects with a 'links' field will be presented as
+  # collapsible link lists. The 'links' field can either be a
+  # reference to another link list in this file, or a literal list.
+  # - text: Section title
+  #   links: <links>
