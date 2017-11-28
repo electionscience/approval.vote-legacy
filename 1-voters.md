@@ -1,6 +1,5 @@
 ---
 layout: page
-sidenav: primary
 title: For Voters
 permalink: /voters/
 ---
