@@ -3,9 +3,22 @@ primary:
     href: /voters/
   - text: For Candidates
     href: /candidates/
+  - text: What about IRV?
+    href: /compare/
   - text: About Us
     href: http://electology.org/who-we-are
     external: true
+
+compare:
+  - text: IRV still has a spoiler effect
+    href: '#IRV-still-has-a-spoiler-effect'
+  - text: IRV excludes moderates
+    href: '#section-two'
+  - text: IRV is not a Condorcet system
+  - text: IRV enables tyranny of the majority
+  - text: 2016 election
+
+
 
   # link objects with a 'links' field will be presented as
   # collapsible link lists. The 'links' field can either be a

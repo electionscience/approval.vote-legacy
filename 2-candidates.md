@@ -6,7 +6,7 @@ permalink: /candidates/
 
 ## How does Approval Voting affect me as a representative?
 
-Approval voting is likely broaden your appeal and allow you to win by a larger amount. Under Approval Voting votes for you are independent of the other candidates running. 
+Approval voting is likely broaden your appeal and allow you to win by a larger amount. Under Approval Voting votes for you are independent of the other candidates running.
 
 While this may sound impossible, Approval Voting is fairer to both major and minor parties. Under the current system, popular major party candidates sometimes lose when a strong minor party or independent candidate draws some of the support that would have otherwise been theirs. Approval Voting addresses this by allowing supporters of alternative candidates to also support a more electable frontrunner as a compromise.
 

@@ -20,3 +20,5 @@ In the 2016 New Hampshire Senate election, conservative independent candidate Aa
 ## Extremism
 
 ## Negative Campaigning, including foreign influence
+
+https://politics.stackexchange.com/questions/14582/what-arguments-are-there-against-ranked-choice-voting/14850#14850
