@@ -2,13 +2,12 @@
 layout: page
 title: Compare
 permalink: /compare/
-# sidenav: compare
+sidenav: compare
 ---
 
-# How does Approval Voting compare to Instant Runoff Voting?
+# How does Approval Voting compare to Instant Runoff Voting
 
 ## IRV still has a spoiler effect
-
 
 <p>There's a belief that IRV eliminates the concern that third party candidates act as spoilers. It doesn't.  <a href="http://rangevoting.org/TarrIrvSumm.html" rel="nofollow noreferrer"> Instant Runoff Voting has lead to two-party domination in every country it's been adopted in</a>. </p>
 
@@ -82,7 +81,7 @@ permalink: /compare/
     <br> Yee Animations 0.8</a>
 </p>
 
-<h2>IRV excludes moderates</h2>
+## IRV excludes moderates
 
 <p>Similar to above, if there are two more-extreme partisan candidates and a moderate/compromise candidate in the middle, the
   compromise candidate is eliminated early (for not being anyone's first choice), even though they are the best representative
@@ -123,7 +122,7 @@ permalink: /compare/
   </a>
 </p>
 
-<h2>IRV is not a Condorcet system</h2>
+## IRV is not a Condorcet system
 
 <p>In the Burlington election, Montroll was also the
   <a href="https://en.wikipedia.org/wiki/Condorcet_criterion" rel="nofollow noreferrer">Condorcet winner</a>, meaning he would have won against every other candidate in head-to-head elections, but IRV is not
@@ -133,7 +132,7 @@ permalink: /compare/
   <em>liked</em> candidate (the "Utilitarian Winner"), it should at least elect the most-
   <em>preferred</em> candidate (the "Condorcet Winner"). IRV guarantees neither.</p>
 
-<h2>IRV enables tyranny of the majority</h2>
+## IRV forces control by the majority
 
 <p>Here's a (contrived) example:</p>
 
@@ -153,7 +152,7 @@ permalink: /compare/
   <em>half</em> of the population, while Candidate B is a good representative of the
   <em>entire</em> population.</p>
 
-<h2>2016 election</h2>
+## The 2016 election
 
 <blockquote>
   <p>And if the Republican primaries had used ranked-choice voting, Trump wouldn't have won the nomination, since a majority

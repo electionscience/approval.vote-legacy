@@ -11,12 +11,15 @@ primary:
 
 compare:
   - text: IRV still has a spoiler effect
-    href: '#IRV-still-has-a-spoiler-effect'
+    href: 'compare/#irv-still-has-a-spoiler-effect'
   - text: IRV excludes moderates
-    href: '#section-two'
+    href: 'compare/#irv-excludes-moderates'
   - text: IRV is not a Condorcet system
+    href: 'compare/#irv-is-not-a-condorcet-system'
   - text: IRV enables tyranny of the majority
-  - text: 2016 election
+    href: 'compare/#irv-forces-control-by-the-majority'
+  - text: The 2016 election
+    href: 'compare/#the-2016-election'
 
 
 

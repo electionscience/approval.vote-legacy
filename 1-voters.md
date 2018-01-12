@@ -5,15 +5,16 @@ permalink: /voters/
 ---
 
 # The way we vote determines the people we elect.
+
 Voting isn't just checking a box - voting should be a survey of what you, a constituent, believe.
 
-The widespread system of Single Choice voting means voters must make trade offs between their values, and who will win.
+The existing system of Single Choice Voting means voters must make trade offs between their values, and who will win.
 
 But voters don't have to vote this way. We can judge each candidate independently from each other.
 
-## How does Approval Voting change the voting system?
+## How does Approval Voting change elections?
 
-Under approval voting lends support to candidates that have nuanced campaigns that appeal to a broad base. The likely winner in an Approval Voting election is the candidate who can build coalitions, propose nuanced solutions to complex problems, and represent the community as a whole, as opposed to just their party.
+Approval Voting lends support to candidates that appeal to a broad base. The likely winner in an AV election is the candidate who can build coalitions, propose nuanced solutions to complex problems, and represent the community as a whole, as opposed to being the 'least bad option' in front of voters.
 
 ## Does approval voting violate one person, one vote?
 
@@ -26,5 +27,5 @@ A common misconception is that Approval Voting gives more weight to voters who v
 Finally, consider that voters are already allowed to vote for multiple candidates in “at large” races. For instance, a city council may simultaneously elect three representatives. Some voters may vote for three candidates, while others may vote for only one or two candidates.
 
 ## But what about instant-runoff voting?
-Our extensive analysis over the years overwhelmingly supports the view that Approval Voting is a much simpler and more democratic system than IRV. The results of Approval Voting elections are also much easier to understand than the numerous rounds of vote transfers that IRV utilizes. In an Approval Voting election, you would only see approval percentages and total votes for each candidate — much simpler than IRV. Don’t take our word on it. Click below for the Oakland 2010 IRV election results (simplified to show just later rounds). Do you think voters easily understood this?
 
+Our extensive analysis overwhelmingly supports that Approval Voting is a much simpler and more democratic system than IRV. The results of Approval Voting elections are also much easier to understand than the numerous rounds of vote transfers that IRV utilizes. In an Approval Voting election, you would only see approval percentages and total votes for each candidate — much simpler than IRV. See the [comparison between IRV and Approval Voting](/compare)
