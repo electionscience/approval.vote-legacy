@@ -22,7 +22,7 @@ subnav:
 
 [Instant Runoff Voting on Wikpedia](https://en.wikipedia.org/wiki/Instant-runoff_voting)
 
-In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is sometimes called "Ranked Choice Voting." It's major proponent in the US is [fairvote.org](https://fairvote.org), and is used in some cities across the US for mayoral elections. It's minimally better than the existing "Single Choice Voting" method but has systemic issues that disqualify it from being an optimal voting method.
+In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is a form of "Ranked Choice Voting", though there are other ways to tally ranked ballots. It's major proponent in the US is [fairvote.org](https://fairvote.org), and is used in some cities across the US for mayoral elections. It's better than the widespread "Choose-One Plurality Voting" method but it has both practical and systemic issues.
 
 ## IRV still has a spoiler effect
 
