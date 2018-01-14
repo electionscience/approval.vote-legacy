@@ -3,9 +3,26 @@ layout: page
 title: Compare
 permalink: /compare/
 sidenav: compare
+subnav:
+  - text: What is IRV?
+    href: compare/#what-is-instant-runoff-voting
+  - text: IRV still has a spoiler effect
+    href: 'compare/#irv-still-has-a-spoiler-effect'
+  - text: IRV excludes moderates
+    href: 'compare/#irv-excludes-moderates'
+  - text: IRV is not a Condorcet system
+    href: 'compare/#irv-is-not-a-condorcet-system'
+  - text: IRV enables tyranny of the majority
+    href: 'compare/#irv-forces-control-by-the-majority'
+  - text: The 2016 election
+    href: 'compare/#the-2016-election'
 ---
 
-# How does Approval Voting compare to Instant Runoff Voting
+## What is Instant Runoff Voting?
+
+[Instant Runoff Voting on Wikpedia](https://en.wikipedia.org/wiki/Instant-runoff_voting)
+
+In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is sometimes called "Ranked Choice Voting." It's major proponent in the US is [fairvote.org](https://fairvote.org), and is used in some cities across the US for mayoral elections. It's minimally better than the existing "Single Choice Voting" method but has systemic issues that disqualify it from being an optimal voting method.
 
 ## IRV still has a spoiler effect
 

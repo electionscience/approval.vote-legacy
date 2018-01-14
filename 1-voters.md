@@ -2,23 +2,43 @@
 layout: page
 title: For Voters
 permalink: /voters/
+sidenav: voters
+subnav:
+  - text: What is Approval Voting
+    href: '/voters/#what-is-approval-voting'
+  - text: Why does the voting method matter
+    href: /voters/#why-does-the-voting-method-matter
+  - text: How does Approval Voting change elections
+    href: /voters/#how-does-approval-voting-change-elections
+  - text: What about instant-runoff voting
+    href: /voters/#but-what-about-instant-runoff-voting
 ---
 
-# The way we vote determines the people we elect.
+
+## What is Approval Voting?
+
+Approval Voting allows you to check multiple candiates on a ballot. Imagine if somebody in the current method votes for Nader *and* Bush, then their vote is discarded as an illegal "overvote" and not counted. With Approval Voting, overvotes are legal and _all votes are counted_.
+
+Rather than "Pick One" you can "Pick Many" so that you can nominate the representatives that you feel share your values best. The candidate with the most votes across all the ballots win - just like the existing method.
+
+
+## Why does the voting method matter?
+
+The way we vote determines who we elect. We currently use "Single Choice Voting" (or First Past the Post if you've heard of it before) where you can only pick one candidate from a list. Because you have only one vote, you'll try hard to vote for the candidate that is _the least worst alternative_. You don't want to throw away your vote, but you've got to stop the other, worst candidate from winning. Even if who you vote for is far from your ideal candidate.
+
+This is a flawed voting method. Voters shouldn't be picking the 'least bad' candidate - they should be able to express their beliefs and hopes for an ideal representative. An ideal voting method should choose a representitive that represents the shared values of the population.
 
 Voting isn't just checking a box - voting should be a survey of what you, a constituent, believe.
 
-The existing system of Single Choice Voting means voters must make trade offs between their values, and who will win.
-
-But voters don't have to vote this way. We can judge each candidate independently from each other.
+But voters don't have to vote this way. We don't need to make trade offs between terrible candidates to pick the "least worst" candidate. We can judge each candidate independently from each other, and pick the best one.
 
 ## How does Approval Voting change elections?
 
 Approval Voting lends support to candidates that appeal to a broad base. The likely winner in an AV election is the candidate who can build coalitions, propose nuanced solutions to complex problems, and represent the community as a whole, as opposed to being the 'least bad option' in front of voters.
 
-## Does approval voting violate one person, one vote?
+## Does Approval Voting allow you to vote multiple times?
 
-No. The term “one person one vote” refers to the weight of votes, not to how votes are expressed.
+No. Approval Voting doesn't violate "one person one vote." The term “one person one vote” refers to the weight of votes, not to how votes are expressed.
 
 The U.S. Supreme Court made the “one person one vote” rule explicit in Reynolds v. Sims (377 U.S. 533). The rule stated that no vote should count more than any other so that it has unequal weight. This unequal weight would violate the Equal Protection Clause of the Constitution. And it was Baker v. Carr (369 U.S. 186) that extended the Equal Protection Clause to districting issues. In Reynolds, the state of Alabama set up its districts so that they varied wildly in population. The districting was so bad that it gave some voters’ ballots as much as 41 times more weight than others. Because the weights of the ballots were different between districts, that violated the “one person one vote” rule.
 
@@ -28,4 +48,4 @@ Finally, consider that voters are already allowed to vote for multiple candidate
 
 ## But what about instant-runoff voting?
 
-Our extensive analysis overwhelmingly supports that Approval Voting is a much simpler and more democratic system than IRV. The results of Approval Voting elections are also much easier to understand than the numerous rounds of vote transfers that IRV utilizes. In an Approval Voting election, you would only see approval percentages and total votes for each candidate — much simpler than IRV. See the [comparison between IRV and Approval Voting](/compare)
+Our extensive analysis overwhelmingly supports that Approval Voting is a much simpler and more democratic method than IRV. The results of Approval Voting elections are also much easier to understand than the numerous rounds of vote transfers that IRV utilizes. In an Approval Voting election, you would only see approval percentages and total votes for each candidate — much simpler than IRV. See the [comparison between IRV and Approval Voting](/compare)

@@ -2,6 +2,19 @@
 layout: page
 title: For Candidates
 permalink: /candidates/
+sidenav: candidates
+subnav:
+  - text: How does Approval Voting affect me as a representative?
+    href: /candidates/#how-does-approval-voting-affect-me-as-a-representative
+  - text: Negative Campaigning is less effective under Approval Voting
+    href: /candidates/#negative-campaigning-is-less-effective-under-approval-voting
+  - text: What happens to parties under Approval Voting?
+    href: /candidates/#what-happens-to-parties-under-approval-voting
+  - text: If constituents can vote for multiple people, how do I stand out as a candidate?
+    href: /candidates/#if-constituents-can-vote-for-multiple-people-how-do-i-stand-out-as-a-candidate
+  - text: Sample Bill Language
+    href: /candidates/#sample-bill-language
+
 ---
 
 ## How does Approval Voting affect me as a representative?
