@@ -5,13 +5,9 @@
   <div class="usa-grid usa-footer-return-to-top">
     <a href="{{ footer.top.href | default: '#' }}">{{ footer.top.text | default: 'Return to top' }}</a>
   </div>
-  {% endif %}
-
-  {% if footer.links %}
-    {% assign footer_links = site.data.navigation[footer.links] | default: footer.links %}
-    {% assign _sizes = 'whole half third fourth sixth' | split: ' ' %}
-    {% assign _size = footer_links.size | minus: 1 %}
-    {% assign _size = _sizes[_size] | default: 'whole' %}
+  {% endif %} {% if footer.links %} {% assign footer_links = site.data.navigation[footer.links] | default: footer.links %}
+  {% assign _sizes = 'whole half third fourth sixth' | split: ' ' %} {% assign _size = footer_links.size | minus: 1 %} {%
+  assign _size = _sizes[_size] | default: 'whole' %}
   <div class="usa-footer-primary-section">
     <div class="usa-grid">
       <nav class="usa-footer-nav">
@@ -27,47 +23,55 @@
       </nav>
     </div>
   </div>
-  {% endif %}
-
-  {% if footer.logos or footer.heading or footer.contact %}
+  {% endif %} {% if footer.logos or footer.heading or footer.contact %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
-        {% if footer.logos %}
-          {% for logo in footer.logos -%}
-            {% if logo.url %}
-        <a href="{{ logo.url }}">
-            {% endif %}
-          <img class="usa-footer-logo-img" src="{% if logo.external %}{{ logo.src }}{% else %}{{ logo.src | relative_url }}{% endif %}" alt="{{ logo.alt }}"{% if logo.width %}width="{{ logo.width }}"{% endif %}{% if logo.height %}height="{{ logo.height }}"{% endif %}>
-            {% if logo.url %}
-        </a>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="https://electology.us6.list-manage.com/subscribe/post?u=b97ea4b0f437023e8f446c549&amp;id=2bfae09335" method="post"
+            id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <label for="mce-EMAIL">Get updates from the Center for Election Science</label>
+              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="b_b97ea4b0f437023e8f446c549_2bfae09335" tabindex="-1" value="">
+              </div>
+              <div class="clear">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              </div>
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
 
-        {% if footer.heading %}
-        <h4 class="usa-footer-logo-heading">{{ footer.heading }}</h4>
-        {% endif %}
       </div>
 
       {% if footer.contact %}
       <div class="usa-footer-contact-links usa-width-one-half">
-        {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
-        {% for _link in contact_links %}
+
+        {% if footer.logos %} {% for logo in footer.logos -%} {% if logo.url %}
+        <a href="{{ logo.url }}">
+          {% endif %}
+          <img class="usa-footer-logo-img" src="{% if logo.external %}{{ logo.src }}{% else %}{{ logo.src | relative_url }}{% endif %}"
+            alt="{{ logo.alt }}" {% if logo.width %}width="{{ logo.width }}" {% endif %}{% if logo.height %}height="{{ logo.height }}"
+            {% endif %}> {% if logo.url %}
+        </a>
+        {% endif %} {% endfor %} {% endif %} {% if footer.heading %}
+        <h4 class="usa-footer-logo-heading">{{ footer.heading }}</h4>
+        {% endif %} {% if footer.contact.address %}
+        <address>
+          {% if footer.contact.heading %}
+          <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
+          {% endif %} {{ footer.contact.address | markdownify }}
+        </address>
+        {% endif %} {% endif %} {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links
+        %} {% for _link in contact_links %}
         <a class="usa-link-{{ _link.type | default: 'generic' }}" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
           <span>{{ _link.text }}</span>
         </a>
         {% endfor %}
-
-        {% if footer.contact.address %}
-        <address>
-          {% if footer.contact.heading %}
-          <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
-          {% endif %}
-          {{ footer.contact.address | markdownify }}
-        </address>
-        {% endif %}
-      {% endif %}
       </div>
     </div>
   </div>
