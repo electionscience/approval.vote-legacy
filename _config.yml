@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Approval.Vote
+title: BCPropRep Symposium
 email: felix@electology.org
 description: > # this means to ignore newlines until "baseurl:"
   A better way to elect representatives.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://approval.vote" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bcprsymposium" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fsargent/approval.vote
 
 # Build settings

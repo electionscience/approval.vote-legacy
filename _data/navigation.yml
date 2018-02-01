@@ -1,25 +1,8 @@
 primary:
-  - text: For Voters
-    href: /voters/
-  - text: For Candidates
-    href: /candidates/
-  - text: What about IRV?
-    href: /compare/
-  - text: About Us
-    href: http://electology.org/who-we-are
-    external: true
-
-compare:
-  - text: IRV Vs Approval
-    href: '/compare/'
-
-voters:
-  - text: FAQ for Voters
-    href: '/voters/'
-
-candidates:
-  - text: FAQ for Candidates
-    href: '/candidates/'
+  - text: Participants
+    href: /participants/
+  - text: Schedule
+    href: /schedule/
 
 
   # link objects with a 'links' field will be presented as
