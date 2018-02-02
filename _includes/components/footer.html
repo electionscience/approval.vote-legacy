@@ -27,12 +27,20 @@
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
+
+        {% if footer.logos %} {% for logo in footer.logos -%} {% if logo.url %}
+        <a href="{{ logo.url }}">
+          {% endif %}
+          <img style="max-width:40rem" class="usa-footer-logo-img" src="{% if logo.external %}{{ logo.src }}{% else %}{{ logo.src | relative_url }}{% endif %}"
+            alt="{{ logo.alt }}" {% if logo.width %}width="{{ logo.width }}" {% endif %}{% if logo.height %}height="{{ logo.height }}"
+            {% endif %}> {% if logo.url %}
+        </a>
+        {% endif %} {% endfor %} {% endif %}
         <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
           <form action="https://electology.us6.list-manage.com/subscribe/post?u=b97ea4b0f437023e8f446c549&amp;id=2bfae09335" method="post"
             id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-              <label for="mce-EMAIL">Get updates from the Center for Election Science</label>
               <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
               <div style="position: absolute; left: -5000px;" aria-hidden="true">
@@ -46,19 +54,8 @@
         </div>
         <!--End mc_embed_signup-->
 
-      </div>
 
-      {% if footer.contact %}
-      <div class="usa-footer-contact-links usa-width-one-half">
-
-        {% if footer.logos %} {% for logo in footer.logos -%} {% if logo.url %}
-        <a href="{{ logo.url }}">
-          {% endif %}
-          <img class="usa-footer-logo-img" src="{% if logo.external %}{{ logo.src }}{% else %}{{ logo.src | relative_url }}{% endif %}"
-            alt="{{ logo.alt }}" {% if logo.width %}width="{{ logo.width }}" {% endif %}{% if logo.height %}height="{{ logo.height }}"
-            {% endif %}> {% if logo.url %}
-        </a>
-        {% endif %} {% endfor %} {% endif %} {% if footer.heading %}
+        {% if footer.contact %} {% if footer.heading %}
         <h4 class="usa-footer-logo-heading">{{ footer.heading }}</h4>
         {% endif %} {% if footer.contact.address %}
         <address>
