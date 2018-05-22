@@ -22,15 +22,14 @@ subnav:
 
 [Instant Runoff Voting on Wikpedia](https://en.wikipedia.org/wiki/Instant-runoff_voting)
 
-In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is sometimes called "Ranked Choice Voting." It's major proponent in the US is [fairvote.org](https://fairvote.org), and is used in some cities across the US for mayoral elections. It's minimally better than the existing "Single Choice Voting" method but has systemic issues that disqualify it from being an optimal voting method.
+In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is a form of "Ranked Choice Voting", though there are other ways to tally ranked ballots. Its major proponent in the US is [fairvote.org](https://fairvote.org) and is used in some cities across the US for mayoral elections. It's better than the widespread "Choose-One Plurality Voting" method but it has both practical and systemic issues.
 
 ## IRV still has a spoiler effect
 
 <p>There's a belief that IRV eliminates the concern that third party candidates act as spoilers. It doesn't.  <a href="http://rangevoting.org/TarrIrvSumm.html" rel="nofollow noreferrer"> Instant Runoff Voting has lead to two-party domination in every country it's been adopted in</a>. </p>
 
 <p>It's true that voting honestly for a
-  <em>fringe</em> candidate (Yellow) is safe, since they'll be eliminated immediately and your second choice will go to a mainstream
-  candidate (Green). So IRV is better than plurality in this case (where Red would win even though a majority opposes Red):</p>
+  <em>fringe</em> candidate (Yellow) is safe since they'll be eliminated immediately and your second choice will go to a mainstream candidate (Green). So IRV is better than plurality in this case (where Red would win even though a majority opposes Red):</p>
 
 <p>
   <a href="https://i.stack.imgur.com/3cp8G.png" rel="nofollow noreferrer">
@@ -39,9 +38,8 @@ In Instant Runoff Voting, voters rank as many candidates as they want in order o
 </p>
 
 <p>However, when the third party candidate becomes more competitive (which is the whole point of adopting an alternative voting
-  system), voting honestly for them takes away votes from your second choice, who will get eliminated first, and then your
-  most-disliked candidate will win in the following round. If the third party hadn't run, your more-preferred candidate would
-  have won, so the third party is acting as a spoiler, and in fact the effect is
+  system), voting honestly for them takes away votes from your second choice, who will get eliminated first, and then your most-disliked candidate will win in the following round. If the third party hadn't run, your more-preferred candidate would
+  have won, so the third party is acting as a spoiler, and in fact, the effect is
   <em>worse</em> than in plurality (red bar extends further to the right):</p>
 
 <p>
@@ -101,8 +99,7 @@ In Instant Runoff Voting, voters rank as many candidates as they want in order o
 ## IRV excludes moderates
 
 <p>Similar to above, if there are two more-extreme partisan candidates and a moderate/compromise candidate in the middle, the
-  compromise candidate is eliminated early (for not being anyone's first choice), even though they are the best representative
-  of the population as a whole, and a more partisan candidate is elected instead. This is called the "
+  compromise candidate is eliminated early (for not being anyone's first choice), even though they are the best representative of the population as a whole, and a more partisan candidate is elected instead. This is called the "
   <a href="https://electology.org/center-squeeze-effect"
     rel="nofollow noreferrer">center-squeeze effect</a>".</p>
 
@@ -176,7 +173,7 @@ In Instant Runoff Voting, voters rank as many candidates as they want in order o
     of the electorate was against him, it's just that the anti-Trump vote was split.</p>
 </blockquote>
 
-<p>There's not much good data about this, but it's likely that IRV would still have elected Trump:</p>
+<p>There's not many good data about this, but it's likely that IRV would still have elected Trump:</p>
 
 <ul>
   <li>
