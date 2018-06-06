@@ -22,14 +22,14 @@ subnav:
 
 [Instant Runoff Voting on Wikpedia](https://en.wikipedia.org/wiki/Instant-runoff_voting)
 
-In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is a form of "Ranked Choice Voting", though there are other ways to tally ranked ballots. Its major proponent in the US is [fairvote.org](https://fairvote.org) and is used in some cities across the US for mayoral elections. It's better than the widespread "Choose-One Plurality Voting" method but it has both practical and systemic issues.
+In Instant Runoff Voting, voters rank as many candidates as they want in order of choice. It is a form of "Ranked Choice Voting", though there are other ways to tally ranked ballots. Its major proponent in the US is [FairVote.org](https://fairvote.org), and it's used in some cities across the US for mayoral elections. It's better than the widespread "Choose-One Plurality Voting" method, but it has both practical and systemic issues.
 
 ## IRV still has a spoiler effect
 
-<p>There's a belief that IRV eliminates the concern that third party candidates act as spoilers. It doesn't.  <a href="http://rangevoting.org/TarrIrvSumm.html" rel="nofollow noreferrer"> Instant Runoff Voting has lead to two-party domination in every country it's been adopted in</a>. </p>
+<p>There's a belief that IRV eliminates the concern that third party candidates act as spoilers. It doesn't.  <a href="http://rangevoting.org/TarrIrvSumm.html" rel="nofollow noreferrer"> Instant Runoff Voting has led to two-party domination in every country it's been adopted in</a>. </p>
 
 <p>It's true that voting honestly for a
-  <em>fringe</em> candidate (Yellow) is safe since they'll be eliminated immediately and your second choice will go to a mainstream candidate (Green). So IRV is better than plurality in this case (where Red would win even though a majority opposes Red):</p>
+  <em>fringe</em> candidate (Yellow) is safe, since they'll be eliminated immediately and your second choice will go to a mainstream candidate (Green). So IRV is better than plurality in this case (where Red would win even though a majority opposes Red):</p>
 
 <p>
   <a href="https://i.stack.imgur.com/3cp8G.png" rel="nofollow noreferrer">
@@ -51,9 +51,7 @@ In Instant Runoff Voting, voters rank as many candidates as they want in order o
 <p>Video illustration of this effect: </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=JtKAScORevQ" rel="nofollow noreferrer">
-    <img src="https://img.youtube.com/vi/JtKAScORevQ/mqdefault.jpg" alt="Video thumbnail">
-    <br> Favorite Betrayal in Plurality and Instant Runoff Voting</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JtKAScORevQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 <p>These effects have been modeled graphically on
@@ -91,16 +89,13 @@ In Instant Runoff Voting, voters rank as many candidates as they want in order o
 <p>Animated 2D comparison of different systems:</p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=IPMks6afuM8" rel="nofollow noreferrer">
-    <img src="https://img.youtube.com/vi/IPMks6afuM8/mqdefault.jpg" alt="Video thumbnail">
-    <br> Yee Animations 0.8</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IPMks6afuM8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 ## IRV excludes moderates
 
 <p>Similar to above, if there are two more-extreme partisan candidates and a moderate/compromise candidate in the middle, the
-  compromise candidate is eliminated early (for not being anyone's first choice), even though they are the best representative of the population as a whole, and a more partisan candidate is elected instead. This is called the "
-  <a href="https://electology.org/center-squeeze-effect"
+  compromise candidate is eliminated early (for not being anyone's first choice), even though they are the best representative of the population as a whole, and a more partisan candidate is elected instead. This is called the "<a href="https://electology.org/center-squeeze-effect"
     rel="nofollow noreferrer">center-squeeze effect</a>".</p>
 
 <p>This is essentially what happened in
