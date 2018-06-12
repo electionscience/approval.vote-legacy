@@ -17,7 +17,7 @@ subnav:
 
 ## What is Approval Voting?
 
-Approval Voting allows you to check multiple candiates on a ballot. Imagine if somebody in the current method votes for Nader *and* Bush, then their vote is discarded as an illegal "overvote" and not counted. With Approval Voting, overvotes are legal and _all votes are counted_.
+Approval Voting allows you to check multiple candidates on a ballot. Imagine if somebody in the current method votes for Nader *and* Bush, then their vote is discarded as an illegal "overvote" and not counted. With Approval Voting, overvotes are legal and _all votes are counted_.
 
 Rather than "Pick One" you can "Pick Many" so that you can nominate the representatives that you feel share your values best. The candidate with the most votes across all the ballots win - just like the existing method.
 
@@ -26,11 +26,11 @@ Rather than "Pick One" you can "Pick Many" so that you can nominate the represen
 
 The way we vote determines who we elect. We currently use "Single Choice Voting" (or First Past the Post if you've heard of it before) where you can only pick one candidate from a list. Because you have only one vote, you'll try hard to vote for the candidate that is _the least worst alternative_. You don't want to throw away your vote, but you've got to stop the other, worst candidate from winning. Even if who you vote for is far from your ideal candidate.
 
-This is a flawed voting method. Voters shouldn't be picking the 'least bad' candidate - they should be able to express their beliefs and hopes for an ideal representative. An ideal voting method should choose a representitive that represents the shared values of the population.
+This is a flawed voting method. Voters shouldn't be picking the 'least bad' candidate - they should be able to express their beliefs and hopes for an ideal representative. An ideal voting method should choose a representative that represents the shared values of the population.
 
 Voting isn't just checking a box - voting should be a survey of what you, a constituent, believe.
 
-But voters don't have to vote this way. We don't need to make trade offs between terrible candidates to pick the "least worst" candidate. We can judge each candidate independently from each other, and pick the best one.
+But voters don't have to vote this way. We don't need to make trade-offs between terrible candidates to pick the "least worst" candidate. We can judge each candidate independently from each other, and pick the best one.
 
 ## How does Approval Voting change elections?
 
