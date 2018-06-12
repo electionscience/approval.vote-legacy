@@ -19,11 +19,11 @@ subnav:
 
 ## How does Approval Voting affect me as a representative?
 
-Approval voting is likely broaden your appeal and allow you to win by a larger amount. Under Approval Voting votes for you are independent of the other candidates running.
+Approval voting is likely to broaden your appeal and allow you to win by a larger amount. Under Approval Voting votes for you are independent of the other candidates running.
 
 While this may sound impossible, Approval Voting is fairer to both major and minor parties. Under the current system, popular major party candidates sometimes lose when a strong minor party or independent candidate draws some of the support that would have otherwise been theirs. Approval Voting addresses this by allowing supporters of alternative candidates to also support a more electable frontrunner as a compromise.
 
-Additionally, alternative candidates get an accurate level of their support. One alternative voting experiment surveyed voters at polling places in Manhattan’s 69th State Assembly District. The group was granted credentials from the NYC Board of Elections to conduct the exit-poll style experiment inside the city’s official polling places. The experiment compared Plurality Voting (traditional “vote for one” method) with Approval Voting, Score Voting and Instant Runoff Voting. Below are graphs revealing the totals for these four systems.
+Additionally, alternative candidates get an accurate level of their support. One alternative voting experiment surveyed voters at polling places in Manhattan’s 69th State Assembly District. The group was granted credentials from the NYC Board of Elections to conduct the exit-poll style experiment inside the city’s official polling places. The experiment compared Plurality Voting (traditional “vote for one” method) with Approval Voting, Score Voting, and Instant Runoff Voting. Below are graphs revealing the totals for these four systems.
 
 Let’s first look at the Plurality Voting results, to establish a baseline.
 
@@ -42,24 +42,24 @@ The Green Party now receives 58% as much support as the Democratic Party. This i
 
 ## Negative Campaigning is less effective under Approval Voting
 
-Depending on what kind of candidate you are, you'll likely be very tired of negative campaigning. Nobody gets into politics for the slug fest. Ideally we would all like to run on our better principles. Because approval voting allows voters to be more honest about who they like, rather than having to vote strategically, negatives campaigning works less effectively. 
+Depending on what kind of candidate you are, you'll likely be very tired of negative campaigning. Nobody gets into politics for the slugfest. Ideally, we would all like to run on our better principles. Because approval voting allows voters to be more honest about who they like, rather than having to vote strategically, negatives campaigning works less effectively. 
 
-Consider a slug fest between Aaron James and Barbara Fuchs, with a minority candidate of Michelle Banner (A, B, M). Aaron is constantly on the offensive, calling names and making ridiculous statements about his main competitor, Barbara. Some of those blows land, and a minor conspiracy is created around Barbara's candidacy. But it also casts Aaron James in a bad light. Because voters have choice, the voters for Barbara start *also* voting for Michelle Banner as a check on Aaron James' policies and positions. While candidates can campaign negatively, it doesn't necessarily help them, as they are going against multiple candidates, rather than a traditional 1:1 campaign.
+Consider a slugfest between Aaron James and Barbara Fuchs, with a minority candidate of Michelle Banner (A, B, M). Aaron is constantly on the offensive, calling names and making ridiculous statements about his main competitor, Barbara. Some of those blows hit, and a minor conspiracy is created around Barbara's candidacy. But it also casts Aaron James in a bad light. Because voters have a choice, the voters for Barbara start *also* voting for Michelle Banner as a check on Aaron James' policies and positions. While candidates can campaign negatively, it doesn't necessarily help them, as they are going against multiple candidates, rather than a traditional 1:1 campaign.
 
 ## What happens to parties under Approval Voting?
 
-It's unlikely that the parties would significantly change, other than now being able to put forward multiple candidates that fit their platform. Parties are extremely useful for building solid campaigns, and developing talented politicians. Approval voting doesn't change that. Under Approval Voting are less likely to devolve into inter party bickering that has occurred under traditional voting.
+It's unlikely that the parties would significantly change, other than now being able to put forward multiple candidates that fit their platform. Parties are extremely useful for building solid campaigns and developing talented politicians. Approval voting doesn't change that. Under Approval Voting are less likely to devolve into inter-party bickering that has occurred under traditional voting.
 
 ## If constituents can vote for multiple people, how do I stand out as a candidate?
 
-By running a great campaign! Approval voting encourages the best candidate to win by reaching out to underrepresented constituencies, and building bridges. The task turns from building the most fervent base, to building the widest coalition of voters. In a tight race, it's your job to bring constituents out of the shadows, and have them engage in the political process.
-Because your candidacy is independent from any other candidate's platform, you are running on your own platform, rather than against anyone elses.
+By running a great campaign! Approval voting encourages the best candidate to win by reaching out to underrepresented constituencies and building bridges. The task turns from building the most fervent base, to building the widest coalition of voters. In a tight race, it's your job to bring constituents out of the shadows, and have them engage in the political process.
+Because your candidacy is independent of any other candidate's platform, you are running on your own platform, rather than against anyone else's.
 
 ## Sample Bill Language
-<p>Approval Voting in New York State Voting; system of approval voting<br />1. <br />In any election in which more than two candidates’
-names appear for nomination or election to the ame public office on the official ballot;<br /> or in which more than two candidates'
+<p>Approval Voting in New York State Voting; a system of approval voting<br />1. <br />In any election in which more than two candidates’
+names appear for nomination or election to the same public office on the official ballot;<br /> or in which more than two candidates'
 names appear on the official ballot for election to the same party position which position is to be filled by the election
-of only one candidate;<br /> or in which more candidates' names appear on the official ballot than are to be elected to the
+of only one candidate;<br /> or in which more candidates' names appear on the official ballot that are to be elected to the
 same party position which position is to be filled by the election of a group of candidates;<b><br />the voter shall be permitted
 to vote for (and thereby to approve of) as many or as few of the candidates for such same public office or party position
 as the voter chooses to vote for</b>, without limitation, except that the voter may not vote more than once for the same
