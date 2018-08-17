@@ -49,3 +49,18 @@ Finally, consider that voters are already allowed to vote for multiple candidate
 ## But what about instant-runoff voting?
 
 Our extensive analysis overwhelmingly supports that Approval Voting is a much simpler and more democratic method than IRV. The results of Approval Voting elections are also much easier to understand than the numerous rounds of vote transfers that IRV utilizes. In an Approval Voting election, you would only see approval percentages and total votes for each candidate — much simpler than IRV. See the [comparison between IRV and Approval Voting](/compare)
+
+## FairVote says Approval Voting suffers from "Bullet Voting" -- what is it?
+
+Fairvote defines Bullet Voting as when a voter selects only one candidate, and no others on their Approval Voting ballot. That ballot would effectively be the same as a Plruality Vote ballot. The fear is that if everyone chooses to bullet vote then none of the advantages of approval voting would occur, and we would be stuck with the same flawed system.
+
+While a voter *can* vote for just one candidate, it is frequently in their interests to vote for voters to honestly declare their preferences. Voters who vote for more candidates are more likely to have influence on the election than those who bullet vote. 
+
+A common example (often cited by FairVote in other contexts) is a voter who preferred Green Party candidate Ralph Nader in the 2000 USA Presidential election, but insincerely voted for Democrat Al Gore in order not to "waste her vote" under plurality voting (because the real battle was between Gore & Bush). If it had been approval voting, do you think this voter would:
+
+1. Approve both Gore and Nader (and any other candidates that voter preferred over Gore)
+1. Only approve Gore
+1. Only approve Nader
+
+Models and real world experience shows that the number of bullet votes are small. In a [French approval voting](http://scorevoting.net/FrenchStudy.html) study (thousands of voters, 16 candidates, presidential election of 2002; probably the largest approval voting study ever), ratio of ballots to votes was 1:3.15, meaning that the average ballot had had 3 to 4 acceptable candidates. The percentage of "bullet style" (approves exactly one) ballots was 11.1%.
+
