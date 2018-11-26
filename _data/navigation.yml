@@ -8,6 +8,8 @@ primary:
   - text: About Us
     href: http://electology.org/who-we-are
     external: true
+  - text: Donate
+    href: '/donate/'
 
 compare:
   - text: IRV Vs Approval
@@ -20,6 +22,8 @@ voters:
 candidates:
   - text: FAQ for Candidates
     href: '/candidates/'
+
+
 
 
   # link objects with a 'links' field will be presented as
